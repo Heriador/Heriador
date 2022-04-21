@@ -12,11 +12,11 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "React-Router"],
          css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Passport", "jsonwebtoken", "multer"],
       },
       databases: ["MongoDB", "mySQL", "PostgrSQL"],
    },
