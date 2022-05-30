@@ -1,7 +1,7 @@
 👋 Hi, I’m Angel Miranda 👨‍💻💻
 
 
-<p><em> Ingenieria de Sistemas Student at  <a href="http://unicartagena.edu.co/">Universidad de Cartagena</a> 😊</br>
+<p><em> Ingenieria de Sistemas Student at  <a href="http://unicartagena.edu.co/" target="_blank">Universidad de Cartagena</a> 😊</br>
    Backen Developer 💻
 </em></p>
 
