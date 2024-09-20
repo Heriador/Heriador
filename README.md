@@ -1,8 +1,8 @@
 👋 Hi, I’m Angel Miranda 👨‍💻💻
 
 
-<p><em> Ingenieria de Sistemas Student at  <a href="http://unicartagena.edu.co/" target="_blank">Universidad de Cartagena</a> 😊</br>
-   Backen Developer 💻
+<p><em> Ingenieria de Sistemas at  <a href="http://unicartagena.edu.co/" target="_blank">Universidad de Cartagena</a> 😊</br>
+   Backend Developer 💻
 </em></p>
 
 <a href="https://www.linkedin.com/in/angel-andres-miranda-castillo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
